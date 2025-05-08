@@ -6,9 +6,15 @@
 - 🎓 Completed **M.Tech** from **Jawaharlal Nehru Technological University, Hyderabad (JNTU-H)**
 - 🎓 Completed **MBA** from **Kakatiya University, Warangal**
 - 📚 Certified in:
-  - **Microsoft Azure**: AZ-900 (Azure Fundamentals), AZ-104 (Azure Administrator), AZ-305 (Azure Architect), AZ-400 (DevOps Engineer)
-  - **Terraform Associate**
-  - **Red Hat Certified System Administrator (RHCSA)**
+  - **Microsoft Azure**:
+    <img src="https://img.shields.io/badge/AZ-900-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue" />
+    <img src="https://img.shields.io/badge/AZ-104-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue" />
+    <img src="https://img.shields.io/badge/AZ-305-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue" />
+    <img src="https://img.shields.io/badge/AZ-400-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue" />
+  - **Terraform Associate**:
+    <img src="https://img.shields.io/badge/Terraform-Associate-F3F3F3?style=flat&logo=terraform&logoColor=orange" />
+  - **Red Hat Certified System Administrator (RHCSA)**:
+    <img src="https://img.shields.io/badge/Red_Hat-RHCSA-F3F3F3?style=flat&logo=redhat&logoColor=red" />
 
 - 💡 Passionate about designing scalable cloud infrastructure, implementing DevOps best practices, and automating end-to-end deployments.
 - 🚀 Always exploring new tools and trends in the Cloud, DevOps, and Infrastructure-as-Code ecosystem.
