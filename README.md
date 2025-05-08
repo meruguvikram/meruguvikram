@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Terraform-Associate-F3F3F3?style=flat&logo=terraform&logoColor=orange" />
   - **Red Hat Certified System Administrator (RHCSA)**:
     <img src="https://img.shields.io/badge/Red_Hat-RHCSA-F3F3F3?style=flat&logo=redhat&logoColor=red" />
+  - **Microsoft Certified Azure DevOps Engineer Expert**:
+    <img src="/mnt/data/5cf2ab48-480f-4a7c-bbcd-2ac8f26d271b.png" width="100" />
 
 - 💡 Passionate about designing scalable cloud infrastructure, implementing DevOps best practices, and automating end-to-end deployments.
 - 🚀 Always exploring new tools and trends in the Cloud, DevOps, and Infrastructure-as-Code ecosystem.
@@ -47,6 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bicep/bicep-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudformation/cloudformation-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="50" />
