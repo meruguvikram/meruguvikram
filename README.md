@@ -7,16 +7,12 @@
 - 🎓 Completed **MBA** from **Kakatiya University, Warangal**
 - 📚 Certified in:
   - **Microsoft Azure**:
-    <img src="https://img.shields.io/badge/AZ-900-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue" />
-    <img src="https://img.shields.io/badge/AZ-104-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue" />
-    <img src="https://img.shields.io/badge/AZ-305-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue" />
-    <img src="https://img.shields.io/badge/AZ-400-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue" />
-  - **Terraform Associate**:
-    <img src="https://img.shields.io/badge/Terraform-Associate-F3F3F3?style=flat&logo=terraform&logoColor=orange" />
-  - **Red Hat Certified System Administrator (RHCSA)**:
-    <img src="https://img.shields.io/badge/Red_Hat-RHCSA-F3F3F3?style=flat&logo=redhat&logoColor=red" />
-  - **Microsoft Certified Azure DevOps Engineer Expert**:
-    <img src="/mnt/data/5cf2ab48-480f-4a7c-bbcd-2ac8f26d271b.png" width="100" />
+    - **Microsoft Certified Azure DevOps Engineer Expert** (AZ-400) ![AZ-400 Badge](https://img.shields.io/badge/AZ-400-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue)
+    - **Microsoft Certified Azure Fundamentals** (AZ-900) ![AZ-900 Badge](https://img.shields.io/badge/AZ-900-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue)
+    - **Microsoft Certified Azure Administrator Associate** (AZ-104) ![AZ-104 Badge](https://img.shields.io/badge/AZ-104-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue)
+    - **Microsoft Certified Azure Infrastructure Solutions Expert** (AZ-305) ![AZ-305 Badge](https://img.shields.io/badge/AZ-305-F3F3F3?style=flat&logo=microsoftazure&logoColor=blue)
+  - **Terraform Associate** ![Terraform Associate Badge](https://img.shields.io/badge/Terraform-Associate-F3F3F3?style=flat&logo=terraform&logoColor=orange)
+  - **Red Hat Certified System Administrator (RHCSA)** ![RHCSA Badge](https://img.shields.io/badge/Red_Hat-RHCSA-F3F3F3?style=flat&logo=redhat&logoColor=red)
 
 - 💡 Passionate about designing scalable cloud infrastructure, implementing DevOps best practices, and automating end-to-end deployments.
 - 🚀 Always exploring new tools and trends in the Cloud, DevOps, and Infrastructure-as-Code ecosystem.
@@ -49,7 +45,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bicep/bicep-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudformation/cloudformation-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="50" />
